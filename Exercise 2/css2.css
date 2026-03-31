@@ -14,14 +14,9 @@ body{
     font-family: "Dokdo", system-ui;
     font-weight: 400;
     font-style: normal;
+    text-align: center;
 }
 .container {
     text-align: center;
 }
-.container2 {
-    text-align: lefts;
-    position: absolute;
-    left:300px;
-    top: 546px;
-}   
 
