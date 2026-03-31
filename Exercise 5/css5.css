@@ -1,0 +1,30 @@
+.Coffee {
+    display: block;
+    justify-content: center;
+}
+
+.audio {
+    display: flex;
+    justify-content: center;
+}
+
+html, body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(92, 79, 67);
+}
+
+header {
+    background-color: wheat;
+    padding: 1px;
+    border-radius: 50px;
+    margin-bottom: 10px;
+}
+
+footer {
+    color: white;
+}

@@ -1,0 +1,62 @@
+h1{
+    font-size: 60px;
+}
+header{
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/048/504/485/small/vibrant-red-textured-surface-background-photo.jpg");
+    text-align: center;
+    padding: 20px 0px;
+    background-size: 1500px 709px ;
+    color:white;
+}
+body{
+    background-image: url("https://www.pngmagic.com/inc/download.php?f=product_images%2FOff-white-background-image.jpg&id=wb12");
+    background-size: 1500px 709px ;
+}
+img {
+    border: 3px solid black;
+}
+footer{
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/048/504/485/small/vibrant-red-textured-surface-background-photo.jpg");
+    color:rgb(0, 0, 0);
+    padding: 5px 0px;
+    text-align: left;
+    background-size: 1500px 709px ;
+}
+main{
+    width:400px;
+    height: 400px;
+    margin: 20px ;
+    padding: 20px;
+    border: 3px solid black;
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/048/504/485/small/vibrant-red-textured-surface-background-photo.jpg");
+    background-size: 1500px 709px ;
+    position: absolute;
+    top: 210px;
+    right: 10px;
+    color:white;
+}
+ul{
+    width:400px;
+    height: 200px;
+    margin: 20px ;
+    padding: 20px;
+    border: 3px solid black;
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/048/504/485/small/vibrant-red-textured-surface-background-photo.jpg");
+    background-size: 1500px 709px ;
+    color:white;
+}
+ol{
+    width:400px;
+    height: 1200px;
+    margin: 20px ;
+    padding: 20px;
+    border: 3px solid black;
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/048/504/485/small/vibrant-red-textured-surface-background-photo.jpg");
+    background-size: 1500px 709px ;
+    color:white;
+    top: 210px;
+    right: 10px;
+}
+figcaption {
+    text-align: center;
+}

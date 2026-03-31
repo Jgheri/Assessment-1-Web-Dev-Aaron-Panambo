@@ -1,0 +1,27 @@
+header {
+    background-color:rgb(33, 194, 244);
+    text-align: center;
+    padding: 5px 0px;
+    color:rgb(0, 0, 0);
+    border-style: groove;
+    border-radius: 40px;
+    border-color: navy;
+    font-family: "Dokdo", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+body{
+    font-family: "Dokdo", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+.container {
+    text-align: center;
+}
+.container2 {
+    text-align: lefts;
+    position: absolute;
+    left:300px;
+    top: 546px;
+}   
+

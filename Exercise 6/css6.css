@@ -1,0 +1,80 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background: linear-gradient(135deg, #d76f00, #fcda73);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    width: 560px;
+    box-shadow: 0 10px 25px rgba(0,0,0,1);
+    text-align: center;
+}
+
+
+.input-row {
+    display: flex;
+    gap: 20px;
+    margin-top: 15px;
+}
+
+.input-group {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    text-align: left;
+}
+
+.input-group label {
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #555;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    transition: 0.3s;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.input-group input:focus {
+    border-color: #fc982c;
+    outline: none;
+    box-shadow: 0 0 6px rgba(252, 152, 44, 0.4);
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    background: #fc982c;
+    color: white;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+button:hover {
+    background: #e3860b;
+    transform: scale(1.05);
+}
+
+#Cost {
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #d76f00;
+}
